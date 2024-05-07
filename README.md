@@ -1,2 +1,2 @@
 # react-timer-app
-own study
+src文件夹中TimerComponent 以及TypeScriptTimerComponent为笔试第二题
